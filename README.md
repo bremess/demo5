@@ -3,3 +3,4 @@ Introduction to Git and Github
 Lane Tech
 Brenda Remess
 Web development
+Chicago, Il
